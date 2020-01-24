@@ -1,8 +1,9 @@
 img{
-    width:100%;
+    width:50% ;
 }
 h2{
-    color:white;
+    color: black;
+    padding-left:25px;
     font-size:20px;
 }
 div{
@@ -14,7 +15,7 @@ div{
     Background-color: green;
 }
 .row-2{
-    background-image: url(https://i.ytimg.com/vi/dxrg1wawqvY/maxresdefault.jpg);
+    background-color: blueviolet;
     background-size: 100% auto;
     background-repeat: no-repeat;
 }
